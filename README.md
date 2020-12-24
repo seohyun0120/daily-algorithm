@@ -11,6 +11,7 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [739](LeetCode/739.py) | `Medium` | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                           | 2020/12/21 |
 | [121](LeetCode/121.py) | `Easy`   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 2020/12/22 |
 | [332](LeetCode/332.py) | `Medium` | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                     | 2020/12/22 |
+| [621](LeetCode/621.py) | `Medium` | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                   | 2020/12/24 |
 
 **백준**
 
