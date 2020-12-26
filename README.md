@@ -12,6 +12,9 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [121](LeetCode/121.py) | `Easy`   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 2020/12/22 |
 | [332](LeetCode/332.py) | `Medium` | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                     | 2020/12/22 |
 | [621](LeetCode/621.py) | `Medium` | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                   | 2020/12/24 |
+| [365](LeetCode/365.py) | `Medium` | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)                     | 2020/12/26 |
+| [15](LeetCode/15.py)   | `Medium` | [3Sum](https://leetcode.com/problems/3sum/)                                                       | 2020/12/26 |
+| [31](LeetCode/31.py)   | `Medium` | [Next Permutation](https://leetcode.com/problems/next-permutation/)                               | 2020/12/27 |
 
 **백준**
 
