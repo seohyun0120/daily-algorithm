@@ -16,6 +16,10 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [15](LeetCode/15.py)     | `Medium` | [3Sum](https://leetcode.com/problems/3sum/)                                                       | 2020/12/26 |
 | [31](LeetCode/31.py)     | `Medium` | [Next Permutation](https://leetcode.com/problems/next-permutation/)                               | 2020/12/27 |
 | [1486](LeetCode/1486.py) | `Easy`   | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)             | 2020/12/27 |
+| [152](LeetCode/152.py)   | `Medium` | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)               | 2020/12/29 |
+| [70](LeetCode/70.py)     | `Easy`   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                 | 2020/12/29 |
+| [1395](LeetCode/1395.py) | `Medium` | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)                     | 2020/12/29 |
+| [332](LeetCode/332.py)   | `Medium` | [Coin Change](https://leetcode.com/problems/coin-change/)                                         | 2020/12/29 |
 
 **백준**
 
