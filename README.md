@@ -6,20 +6,22 @@ LeetCode, 백준 Algorithm 문제 풀이
 
 **LeetCode**
 
-| No.                      | 난이도   | 문제                                                                                              | Date       |
-| ------------------------ | -------- | ------------------------------------------------------------------------------------------------- | ---------- |
-| [739](LeetCode/739.py)   | `Medium` | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                           | 2020/12/21 |
-| [121](LeetCode/121.py)   | `Easy`   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 2020/12/22 |
-| [332](LeetCode/332.py)   | `Medium` | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                     | 2020/12/22 |
-| [621](LeetCode/621.py)   | `Medium` | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                   | 2020/12/24 |
-| [365](LeetCode/365.py)   | `Medium` | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)                     | 2020/12/26 |
-| [15](LeetCode/15.py)     | `Medium` | [3Sum](https://leetcode.com/problems/3sum/)                                                       | 2020/12/26 |
-| [31](LeetCode/31.py)     | `Medium` | [Next Permutation](https://leetcode.com/problems/next-permutation/)                               | 2020/12/27 |
-| [1486](LeetCode/1486.py) | `Easy`   | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)             | 2020/12/27 |
-| [152](LeetCode/152.py)   | `Medium` | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)               | 2020/12/29 |
-| [70](LeetCode/70.py)     | `Easy`   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                 | 2020/12/29 |
-| [1395](LeetCode/1395.py) | `Medium` | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)                     | 2020/12/29 |
-| [332](LeetCode/332.py)   | `Medium` | [Coin Change](https://leetcode.com/problems/coin-change/)                                         | 2020/12/29 |
+| No.                      | 난이도   | 문제                                                                                                                                              | Date       |
+| ------------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [739](LeetCode/739.py)   | `Medium` | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                                           | 2020/12/21 |
+| [121](LeetCode/121.py)   | `Easy`   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                 | 2020/12/22 |
+| [332](LeetCode/332.py)   | `Medium` | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                                                     | 2020/12/22 |
+| [621](LeetCode/621.py)   | `Medium` | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                                                   | 2020/12/24 |
+| [365](LeetCode/365.py)   | `Medium` | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)                                                                     | 2020/12/26 |
+| [15](LeetCode/15.py)     | `Medium` | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                       | 2020/12/26 |
+| [31](LeetCode/31.py)     | `Medium` | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                                               | 2020/12/27 |
+| [1486](LeetCode/1486.py) | `Easy`   | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)                                                             | 2020/12/27 |
+| [152](LeetCode/152.py)   | `Medium` | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                                               | 2020/12/29 |
+| [70](LeetCode/70.py)     | `Easy`   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | 2020/12/29 |
+| [1395](LeetCode/1395.py) | `Medium` | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)                                                                     | 2020/12/29 |
+| [332](LeetCode/332.py)   | `Medium` | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                         | 2020/12/29 |
+| [1689](LeetCode/1689.py) | `Medium` | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 2020/12/31 |
+| [1282](LeetCode/1282.py) | `Medium` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)       | 2020/12/31 |
 
 **백준**
 
