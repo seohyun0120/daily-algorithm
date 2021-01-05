@@ -9,4 +9,5 @@ for i in range(x):
         if case[i] > case[j]:
             dp[i] = max(dp[i], dp[j]+1)
 
+print(dp)
 print(max(dp))
