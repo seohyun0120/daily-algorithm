@@ -22,6 +22,9 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [332](LeetCode/332.py)   | `Medium` | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                                         | 2020/12/29 |
 | [1689](LeetCode/1689.py) | `Medium` | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 2020/12/31 |
 | [1282](LeetCode/1282.py) | `Medium` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)       | 2020/12/31 |
+| [1052](LeetCode/1052.py) | `Medium` | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                   | 2021/01/05 |
+| [39](LeetCode/39.py)     | `Meduim` | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                 | 2021/01/05 |
+| [200](LeetCode/200.py)   | `Meduim` | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                             | 2021/01/05 |
 
 **백준**
 
@@ -38,3 +41,4 @@ LeetCode, 백준 Algorithm 문제 풀이
 | 2020/10/01 | [11726](BOJ/DP/11726.py) [11727](BOJ/Dp/11727.py) [1149](BOJ/DP/1149.py) [2579](BOJ/DP/2579.py) [1932](BOJ/DP/1932.py)                                                    |
 | 2020/09/29 | [10950](BOJ/DP/10950.py) [10828](BOJ/DP/10828.py) [1003](BOJ/DP/1003.py) [9095](BOJ/DP/9095.py) [1463](BOJ/DP/1463.py)                                                    |
 | 2020/12/21 | [17298](BOJ/regular/17298.py)                                                                                                                                             |
+| 2020/01/03 | [9465](BOJ/DP/9465.py) [11053](BOJ/DP/11053.py) [11054](BOJ/DP/11054.py)                                                                                                  |
