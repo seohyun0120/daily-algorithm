@@ -28,6 +28,7 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [78](Leetcode/78.py)     | `Medium` | [Subsets](https://leetcode.com/problems/subsets/)                                                                                                 | 2021/01/09 |
 | [198](Leetcode/198.py)   | `Medium` | [Subsets](https://leetcode.com/problems/house-robber/)                                                                                            | 2021/01/09 |
 | [139](Leetcode/139.py)   | `Medium` | [Word Break](https://leetcode.com/problems/word-break/)                                                                                           | 2021/01/10 |
+| [140](Leetcode/140.py)   | `Hard`   | [Word Break II](https://leetcode.com/problems/word-break-ii/)                                                                                     | 2021/01/10 |
 
 **백준**
 
