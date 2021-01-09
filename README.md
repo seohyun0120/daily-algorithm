@@ -23,8 +23,11 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [1689](LeetCode/1689.py) | `Medium` | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | 2020/12/31 |
 | [1282](LeetCode/1282.py) | `Medium` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)       | 2020/12/31 |
 | [1052](LeetCode/1052.py) | `Medium` | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)                                                                   | 2021/01/05 |
-| [39](LeetCode/39.py)     | `Meduim` | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                 | 2021/01/05 |
-| [200](LeetCode/200.py)   | `Meduim` | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                             | 2021/01/05 |
+| [39](LeetCode/39.py)     | `Medium` | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                                 | 2021/01/05 |
+| [200](LeetCode/200.py)   | `Medium` | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                             | 2021/01/05 |
+| [78](Leetcode/78.py)     | `Medium` | [Subsets](https://leetcode.com/problems/subsets/)                                                                                                 | 2021/01/09 |
+| [198](Leetcode/198.py)   | `Medium` | [Subsets](https://leetcode.com/problems/house-robber/)                                                                                            | 2021/01/09 |
+| [139](Leetcode/139.py)   | `Medium` | [Word Break](https://leetcode.com/problems/word-break/)                                                                                           | 2021/01/10 |
 
 **백준**
 
