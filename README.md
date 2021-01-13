@@ -29,7 +29,9 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [198](Leetcode/198.py)   | `Medium` | [Subsets](https://leetcode.com/problems/house-robber/)                                                                                            | 2021/01/09 |
 | [139](Leetcode/139.py)   | `Medium` | [Word Break](https://leetcode.com/problems/word-break/)                                                                                           | 2021/01/10 |
 | [140](Leetcode/140.py)   | `Hard`   | [Word Break II](https://leetcode.com/problems/word-break-ii/)                                                                                     | 2021/01/10 |
-| [1409](Leetcode/1409.py) | `Hard`   | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)                                             | 2021/01/10 |
+| [1409](Leetcode/1409.py) | `Medium` | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)                                             | 2021/01/10 |
+| [207](Leetcode/207.py)   | `Medium` | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                 | 2021/01/13 |
+| [134](Leetcode/134.py)   | `Medium` | [Gas Station](https://leetcode.com/problems/gas-station/)                                                                                 | 2021/01/13 |
 
 **백준**
 
