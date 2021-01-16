@@ -31,7 +31,7 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [140](Leetcode/140.py)   | `Hard`   | [Word Break II](https://leetcode.com/problems/word-break-ii/)                                                                                     | 2021/01/10 |
 | [1409](Leetcode/1409.py) | `Medium` | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)                                             | 2021/01/10 |
 | [207](Leetcode/207.py)   | `Medium` | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                 | 2021/01/13 |
-| [134](Leetcode/134.py)   | `Medium` | [Gas Station](https://leetcode.com/problems/gas-station/)                                                                                 | 2021/01/13 |
+| [134](Leetcode/134.py)   | `Medium` | [Gas Station](https://leetcode.com/problems/gas-station/)                                                                                         | 2021/01/13 |
 
 **백준**
 
@@ -50,3 +50,4 @@ LeetCode, 백준 Algorithm 문제 풀이
 | 2020/12/21 | [17298](BOJ/regular/17298.py)                                                                                                                                             |
 | 2020/01/03 | [9465](BOJ/DP/9465.py) [11053](BOJ/DP/11053.py) [11054](BOJ/DP/11054.py)                                                                                                  |
 | 2020/01/10 | [1904](BOJ/DP/1904.py) [1912](BOJ/DP/1912.py) [1937](BOJ/DP/1937.py) [2225](BOJ/DP/2225.py) [2293](BOJ/DP/2293.py) [11048](BOJ/DP/11048.py)                               |
+| 2020/01/16 | [1005](BOJ/TopologicalSort/1005.py) [1516](BOJ/TopologicalSort/1516.py) [2252](BOJ/TopologicalSort/2252.py)                                                               |
