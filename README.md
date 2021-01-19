@@ -33,6 +33,7 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [207](Leetcode/207.py)   | `Medium` | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                                                                 | 2021/01/13 |
 | [134](Leetcode/134.py)   | `Medium` | [Gas Station](https://leetcode.com/problems/gas-station/)                                                                                         | 2021/01/13 |
 | [648](Leetcode/648.py)   | `Medium` | [Replace Words](https://leetcode.com/problems/replace-words/)                                                                                     | 2021/01/18 |
+| [3](Leetcode/3.py)       | `Medium` | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                   | 2021/01/19 |
 
 **백준**
 
