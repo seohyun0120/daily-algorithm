@@ -36,6 +36,9 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [3](Leetcode/3.py)       | `Medium` | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                   | 2021/01/19 |
 | [1261](Leetcode/1261.py) | `Medium` | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)                         | 2021/02/23 |
 | [77](Leetcode/77.py)     | `Medium` | [Combinations](https://leetcode.com/problems/combinations/)                                                                                       | 2021/02/24 |
+| [56](Leetcode/56.py)     | `Medium` | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                 | 2021/02/28 |
+| [763](Leetcode/763.py)   | `Medium` | [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                               | 2021/02/28 |
+| [57](Leetcode/57.py)     | `Medium` | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                 | 2021/02/28 |
 
 **백준**
 
