@@ -39,6 +39,7 @@ LeetCode, 백준 Algorithm 문제 풀이
 | [56](Leetcode/56.py)     | `Medium` | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                                                 | 2021/02/28 |
 | [763](Leetcode/763.py)   | `Medium` | [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                               | 2021/02/28 |
 | [57](Leetcode/57.py)     | `Medium` | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                                                 | 2021/02/28 |
+| [1805](Leetcode/1805.py)     | `Easy` | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)                                                                                 | 2021/03/31 |
 
 **백준**
 
