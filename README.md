@@ -9,6 +9,7 @@ LeetCode, 백준 Algorithm 문제 풀이 with Python
 | 2021/04/04 | Leetcode [1480](LeetCode/1480.py) [1637](LeetCode/1637.py) [1790](LeetCode/1790.py) [1791](LeetCode/1791.py) [1800](LeetCode/1800.py) [1812](LeetCode/1812.py) [1816](LeetCode/1816.py) |
 | 2021/04/14 | Leetcode [7](LeetCode/7.py)                                                                                                                                                             |
 | 2021/04/28 | Leetcode [1833](LeetCode/1833.py) [766](LeetCode/766.py)                                                                                                                                |
+| 2021/05/12 | Leetcode [1828](LeetCode/1828.py) [343](LeetCode/343.py) [1302](LeetCode/1302.py)                                                                                                       |
 
 ## Record
 
