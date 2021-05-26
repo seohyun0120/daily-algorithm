@@ -10,6 +10,7 @@ LeetCode, 백준 Algorithm 문제 풀이 with Python
 | 2021/04/14 | Leetcode [7](LeetCode/7.py)                                                                                                                                                             |
 | 2021/04/28 | Leetcode [1833](LeetCode/1833.py) [766](LeetCode/766.py)                                                                                                                                |
 | 2021/05/12 | Leetcode [1828](LeetCode/1828.py) [343](LeetCode/343.py) [1302](LeetCode/1302.py)                                                                                                       |
+| 2021/05/26 | Leetcode [303](LeetCode/303.py)                                                                                                                                                         |
 
 ## Record
 
